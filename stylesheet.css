@@ -1,0 +1,11 @@
+header {
+     background-image:url(https://o.imgz.jp/shop/common/shop_2533/top_0s.jpg) ;
+     background-size: cover;
+     background-position:center;
+ }
+
+.container {
+    width:1124px ;
+    height:200px ;
+    
+}
