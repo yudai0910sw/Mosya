@@ -1,11 +1,86 @@
-header {
-     background-image:url(https://o.imgz.jp/shop/common/shop_2533/top_0s.jpg) ;
-     background-size: cover;
-     background-position:center;
- }
+.header {
+    background-image: url("https://a0.muscache.com/im/pictures/abf4ffe1-7ed8-4f17-bbc3-9cf3f265dc55.jpg?im_w=720");
+    background-size: cover;
+    padding:180px 0 300px 0;
+    width: 100%;
+    height: 100%;
+    
+}
+
+.top {
+    color: white;
+    padding: 0 80px;
+    font-size: 25px;
+}
+
+.top h1 {
+    font-size: 70px;
+    font-weight: bold;
+}
+
+.img1 {
+    height: 100%;
+    width: 100%;
+    padding-bottom: 100px;
+   }
+
+.about {
+    color: black; 
+    margin-top: 50px;
+}
 
 .container {
-    width:1124px ;
-    height:200px ;
-    
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.img2 {
+    height: 433px;
+    width: 550px;
+}
+
+.img3 {
+    height: 435px;
+    width: 435px;
+}
+
+.item4 span {
+    border-bottom: 2px solid black;
+}
+
+.item5 {
+    text-align: center;
+}
+
+.btn-campaign {
+    display: inline-block;
+    color:black;
+    margin-top: 75px;
+    border: black 2px solid;
+    text-decoration: none;
+    padding: 10px 15px;
+    font-size: 15px;
+    border-radius: 5px;
+}
+
+.img4 {
+    height: 420px;
+    width: 500px;
+}
+
+.item6 {
+    text-align: center;
+}
+
+.btn-quetion {
+    display: inline-block;
+    color:black;
+    margin-top: 75px;
+    border: black 2px solid;
+    text-decoration: none;
+    padding: 10px 15px;
+    font-size: 15px;
+    border-radius: 5px;
 }
